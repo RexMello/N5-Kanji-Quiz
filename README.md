@@ -18,6 +18,7 @@ The quiz shows you **only the English meaning** first. You type the Japanese rea
 ## Run on Windows without Python
 
 If you only want to use the quiz and do not want to install Python, download:
+[⬇️ Download Quiz.exe](https://github.com/RexMello/N5-Kanji-Quiz/releases/latest/download/Quiz.exe)
 
 ```text
 Quiz.exe
