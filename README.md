@@ -53,7 +53,7 @@ Add Python 3.9 to PATH
 You can either clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/RexMello/N5-Kanji-Quiz.git
 ```
 
 or use GitHub's **Code -> Download ZIP** option and extract the downloaded ZIP file.
