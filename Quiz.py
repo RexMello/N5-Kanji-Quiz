@@ -157,9 +157,9 @@ VOCAB = [
     # Lesson 15
     (15, "Man", "男", "おとこ", ["otoko"]),
     (15, "Boy", "男の子", "おとこのこ", ["otokonoko"]),
-    (15, "Male / boy", "男子", "だんし", ["danshi"]),
+    (15, "Male / boy (Formal)", "男子", "だんし", ["danshi"]),
     (15, "Girl", "女の子", "おんなのこ", ["onnanoko"]),
-    (15, "Female / girl", "女子", "じょし", ["joshi"]),
+    (15, "Female / girl (Formal)", "女子", "じょし", ["joshi"]),
     (15, "Egg", "玉子", "たまご", ["tamago"]),
     (15, "King", "王", "おう", ["ou", "o"]),
     (15, "Child", "子供", "こども", ["kodomo"]),
